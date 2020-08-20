@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    gcp:
+      credentials:
+        location: classpath:Cargomatrix Document AI-0247b4178b58.json
